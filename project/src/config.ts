@@ -1,1 +1,0 @@
-export const hereApiKey = '4EDNLlWOUfLaUaxZlQ41R4p7BRIhBB0TS_kL_LwHCKA'; 
